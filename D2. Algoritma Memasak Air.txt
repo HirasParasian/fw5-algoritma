@@ -1,0 +1,10 @@
+1. Mulai
+2. Siapkan alat dan bahan ( air, panci, kompor )
+3. masukkan air ke dalam panci
+4. letakkan  panci ke atas kompor
+5. Tutup panci
+6. nyalakan kompor 
+7. tunggu air hingga mendidih
+8. matikan kompor jika air sudah mendidih
+9. Angkat Panci dari kompor
+10. Selesai

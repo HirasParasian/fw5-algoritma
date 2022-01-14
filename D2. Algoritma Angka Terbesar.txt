@@ -1,0 +1,12 @@
+1. Mulai
+2. input nilai x dan y
+3. jika x = y maka " x sama dengan y "
+4. else jika x > y maka " x lebih besar dari y " 
+5. else " y lebih besar dari x"
+6. Selesai 
+
+1. Mulai
+2. Input nilai x
+3. jika x mod 2 = 0 maka " bilangan genap "
+4. else " Bilangan ganjil " 
+5. Selesai

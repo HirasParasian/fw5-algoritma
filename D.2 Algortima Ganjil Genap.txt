@@ -1,0 +1,5 @@
+1. Mulai
+2. Input nilai x
+3. jika x mod 2 = 0 maka " bilangan genap "
+4. else " Bilangan ganjil " 
+5. Selesai
